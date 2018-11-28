@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeviceAndSensor</string>
+    <string name="title_activity_bluetooth_client">BluetoothClientActivity</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+</resources>
